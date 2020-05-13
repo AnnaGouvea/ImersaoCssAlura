@@ -1,13 +1,12 @@
 /* Aula inicial :D */
 body{
-  #background: pink;
-  #background: #4499FF; 
+  /*background: pink;*/
+  /*background: #4499FF;*/ 
   background-image:
     url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F724868502495792858%2F&psig=AOvVaw1b2FK2oBbPadGYO5HGlG8f&ust=1589411527828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjqg765r-kCFQAAAAAdAAAAABAD);
   /*background-size: 1800px 600px;*/
-  background-size: auto 100vh; #100%
+  background-size: auto 100vh; /*100%*/
   font-family: Arial;  
-  color: pink;  
   height:100vh;
 }
 .banana ul {
@@ -29,7 +28,7 @@ a {
   
 a:hover {
   text-decoration: underline; 
-  #nesta_parte_faz-o_grifo_aparecer_quando_se_passa_o_mouse_por_cima.
+  /*nesta_parte_faz-o_grifo_aparecer_quando_se_passa_o_mouse_por_cima.*/
 }
 
 .site-subtitle,
