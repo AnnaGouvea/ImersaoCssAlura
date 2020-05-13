@@ -1,0 +1,43 @@
+/* Aula inicial :D */
+body{
+   /*background: pink;*/
+  /*background: #4499FF;*/ 
+  background-image:
+    url("https://img.freepik.com/vetores-gratis/fundo-de-palco-iluminado-neon_23-2148292707.jpg?size=626&ext=jpg");
+  /*background-size: 1800px 600px;*/
+  background-size: auto 100vh; /*100%*/
+  font-family: Arial; 
+  color: blueviolet; 
+  height:100vh;
+}
+.banana ul {
+  display: flex;
+  justify-content: space-around; 
+}
+
+.banana {
+  background-color: white;
+}
+
+.banana li {
+  list-style: none; 
+ }
+
+a {
+  text-decoration: none;
+}
+  
+a:hover {
+  text-decoration: underline; 
+  /*nesta_parte_faz-o_grifo_aparecer_quando_se_passa_o_mouse_por_cima.*/
+}
+
+.site-subtitle,
+.site-title{
+  color: whitesmoke; 
+  text-align: center; 
+}
+
+.site-subtitle{
+  font-style: italic;
+}
